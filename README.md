@@ -21,7 +21,7 @@
 </div> -->
 
 <p align="center">
-  <img src="photo2.png" alt="Raghvendra" width="150" height="150" style="border-radius:50%; border:2px solid #ccc; box-shadow:0 0 10px rgba(0,0,0,0.3);">
+  <img src="photo2.png" alt="Sumeet" width="150" height="150" style="border-radius:50%; border:2px solid #ccc; box-shadow:0 0 10px rgba(0,0,0,0.3);">
 </p>
 
 I'm a 3rd-year Electronics and Communication student passionate about **web development**.  
