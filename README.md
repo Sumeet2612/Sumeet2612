@@ -29,7 +29,7 @@ I'm a 3rd-year Electronics and Communication student passionate about **web deve
 
 ### Full-Stack Developer in Progress | Backend-Focused | ML Enthusiast | BTech Student
 
-I’m a 3rd-year BTech student working toward becoming a **strong Full-Stack Developer with deep backend expertise and interested in Machine Learning **.
+I’m a 3rd-year BTech student working toward becoming a **strong Full-Stack Developer with deep backend expertise and interested in Machine Learning**.
 I enjoy building structured systems, solving problems using **DSA**, and continuously improving through real-world projects and consistent learning.
 
 ---
