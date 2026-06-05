@@ -55,12 +55,6 @@ I'm a **B.Tech student in Electronics and Communication Engineering** with a str
 
 </div>
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sumeetkumarraj&theme=tokyonight&hide_border=true)
-
-</div>
-
 ---
 
 ## 🚀 What I'm Up To
@@ -80,6 +74,7 @@ I'm a **B.Tech student in Electronics and Communication Engineering** with a str
 - [x] JavaScript (ES6+)
 - [x] Bootstrap
 - [x] React.js
+- [ ] Next.js
 - [ ] Node.js & Express.js
 - [ ] REST APIs
 - [ ] Databases (MongoDB / SQL)
