@@ -1,84 +1,107 @@
+<div align="center">
 
-<!----------------------------------- About Section ------------------------------------>
-<!-- <div>
-    <img 
-       align="right" 
-       src="photo2.png" 
-       alt="Coding" 
-       width="150" 
-       height="150" 
-       style="
-         border-radius: 50%; 
-         border: 2px solid #ccc; 
-         box-shadow: 0 0 10px rgba(0,0,0,0.3); 
-         object-fit: cover;
-       ">
-  <h3>Hi, I'm Raghvendra</h3>
-  <p>
-    I'm a 3rd-year Computer Science student passionate about <b>web development</b>.<br>
-    I enjoy exploring new technologies and building projects that combine creativity with programming.
-  </p> 
-</div> -->
+# Hey there, I'm Sumeet Kumar Raj 👋
 
-<p align="center">
-  <img src="photo2.png" alt="Sumeet" width="150" height="150" style="border-radius:50%; border:2px solid #ccc; box-shadow:0 0 10px rgba(0,0,0,0.3);">
-</p>
+**Electronics & Communication Engineering Student · Frontend Developer · Aspiring Backend Engineer**
 
-I'm a 3rd-year Electronics and Communication student passionate about **web development**.  
-# Hi, I'm Sumeet 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumeet-kumar-raj-d7b8/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sumeet2612)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumeetkumarraj@gmail.com)
 
-### Full-Stack Developer in Progress | Backend-Focused | ML Enthusiast | BTech Student
-
-I’m a 3rd-year BTech student working toward becoming a **strong Full-Stack Developer with deep backend expertise and interested in Machine Learning**.
-I enjoy building structured systems, solving problems using **DSA**, and continuously improving through real-world projects and consistent learning.
+</div>
 
 ---
 
-## 🏆 Achievements
+## 🙋‍♂️ About Me
 
-* **SIH 2025 Hardware Runner-Up**
+I'm a **B.Tech student in Electronics and Communication Engineering** with a strong passion for building things on the web. I've developed solid skills in frontend development and I'm currently diving deep into **backend development** — working towards becoming a well-rounded full-stack engineer.
 
----
-
-## 🛠 Tech Stack
-
-**Languages:** C++, Python, JavaScript
-**Full-Stack & Core:** DSA, DBMS, OS, Web Development
-**Machine Learning Basics:** NumPy, Pandas, YOLO 
-**Tools:** Git, GitHub
+- 🎓 Pursuing **B.Tech in Electronics & Communication Engineering**
+- 🌱 Currently learning **Backend Development** (Node.js, APIs, Databases)
+- 💻 Experienced in building responsive, interactive web interfaces
+- 🔭 Exploring how hardware and software can intersect
+- 🤝 Open to collaborating on interesting web projects
+- ⚡ Fun fact: ECE student who fell in love with code
 
 ---
 
-⭐ *Focused on consistency, real skills, and long-term growth.*
+## 🛠️ Tech Stack
 
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-<!----------------------------------- Tech Stack Section ------------------------------------>
-## Tech Stack
-<h3>Languages</h3>
-<p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" />
-</p>
+### Currently Learning
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<h3>Database</h3>
-<p>
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" />
-</p>
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+---
 
-<!----------------------------------- Social Media Links Section ------------------------------------>
+## 📊 GitHub Stats
 
-<!-- <h2><i>Let's Connect</i></h2>
-<p align="left" >
-   <a href="https://twitter.com/geekyshow1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="geekyshow1" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/irenicraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irenicraj" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/GeekyShow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="geekyshow" height="30" width="40" /></a>
-  <a href="https://instagram.com/geekyshow1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="geekyshow1" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/user/GeekyShow1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="geekyshow1" height="30" width="40" /></a>
-  <a href="https://www.geekyshows.com" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-vol-3/24/_wordpress-512.png" alt="geekyshows" height="30" width="30" /></a>
-</p> -->
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=sumeetkumarraj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumeetkumarraj&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sumeetkumarraj&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🚀 What I'm Up To
+
+```text
+🔨  Building projects with React.js
+📖  Learning backend development (Node.js + Express + MongoDB)
+🌐  Connecting frontend skills with server-side logic
+🔌  Bridging ECE knowledge with software development
+```
+
+---
+
+## 🗺️ My Learning Roadmap
+
+- [x] HTML, CSS & Responsive Design
+- [x] JavaScript (ES6+)
+- [x] Bootstrap
+- [x] React.js
+- [ ] Node.js & Express.js
+- [ ] REST APIs
+- [ ] Databases (MongoDB / SQL)
+- [ ] Authentication & Security
+- [ ] Full-Stack Deployment
+
+---
+
+## 📬 Get In Touch
+
+I'm always open to new opportunities, collaborations, or just a good conversation about tech!
+
+- 💼 [LinkedIn](https://linkedin.com/in/sumeet-kumar-raj-d7b8/)
+- 📧 [Email](mailto:sumeetkumarraj@gmail.com)
+- 🐙 [GitHub](https://github.com/Sumeet2612)
+
+---
+
+<div align="center">
+
+**Thanks for stopping by! ⭐ Star some repos if you find them helpful.**
+
+![Profile Views](https://komarev.com/ghpvc/?username=sumeetkumarraj&color=0e75b6&style=flat)
+
+</div>
