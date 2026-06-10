@@ -44,59 +44,10 @@ I'm a **B.Tech student in Electronics and Communication Engineering** with a str
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sumeetkumarraj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumeetkumarraj&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
----
-
-## 🚀 What I'm Up To
-
-```text
-🔨  Building projects with React.js
-📖  Learning backend development (Node.js + Express + MongoDB)
-🌐  Connecting frontend skills with server-side logic
-🔌  Bridging ECE knowledge with software development
-```
-
----
-
-## 🗺️ My Learning Roadmap
-
-- [x] HTML, CSS & Responsive Design
-- [x] JavaScript (ES6+)
-- [x] Bootstrap
-- [x] React.js
-- [ ] Next.js
-- [ ] Node.js & Express.js
-- [ ] REST APIs
-- [ ] Databases (MongoDB / SQL)
-- [ ] Authentication & Security
-- [ ] Full-Stack Deployment
-
----
-
-## 📬 Get In Touch
-
-I'm always open to new opportunities, collaborations, or just a good conversation about tech!
-
-- 💼 [LinkedIn](https://linkedin.com/in/sumeet-kumar-raj-d7b8/)
-- 📧 [Email](mailto:sumeetkumarraj@gmail.com)
-- 🐙 [GitHub](https://github.com/Sumeet2612)
-
----
-
-<div align="center">
 
 **Thanks for stopping by! ⭐ Star some repos if you find them helpful.**
 
-![Profile Views](https://komarev.com/ghpvc/?username=sumeetkumarraj&color=0e75b6&style=flat)
 
 </div>
