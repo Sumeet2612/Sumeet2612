@@ -123,22 +123,18 @@ A lightweight web application that integrates the **GitHub REST API** for search
 
 A major part of my current focus is strengthening **Data Structures & Algorithms in C++**.
 
-I regularly practice problems across different DSA topics with the goal of improving:
+I regularly practice DSA problems to improve:
 
-* Problem-solving and logical thinking
-* Algorithm selection and optimization
-* Time and space complexity analysis
-* Coding speed and accuracy
-* SDE interview readiness
+- 🧩 Problem-solving and logical thinking
+- ⚡ Algorithm selection and optimization
+- 📐 Time and space complexity analysis
+- 💻 Coding speed and accuracy
+- 🎯 SDE interview readiness
 
 <p align="center">
   <a href="https://leetcode.com/u/Sumeet_1226/">
-    <img src="https://leetcode-stats-card.vercel.app/?username=Sumeet_1226&theme=dark" />
+    <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/Sumeet_1226/">View my LeetCode profile →</a>
 </p>
 
 ---
@@ -159,14 +155,6 @@ Currently, I'm focused on becoming a stronger **Software Development Engineer ca
 * 🧩 **Engineering Fundamentals:** Strengthening **OOP, DBMS, Operating Systems, and core CS concepts**
 * 💻 **Projects:** Continuing to build practical applications that demonstrate real software development skills
 * 🎯 **Career Goal:** Preparing for **Software Development Engineer / Software Engineer** opportunities
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumeet2612&show_icons=true&theme=default&hide_border=true" />
-</p>
 
 ---
 
