@@ -81,7 +81,7 @@ A responsive e-commerce cart application focused on real-time synchronization of
 
 ---
 
-### 🏨 [Room Sync][https://github.com/Sumeet2612/Room-Sync]
+### 🏨 [Room Sync](https://github.com/Sumeet2612/Room-Sync)
 
 A hotel booking web application featuring destination search, date/guest filtering, and booking management.
 
